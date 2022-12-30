@@ -1,0 +1,14 @@
+/* Write your code here. */
+.bg-container {
+  height: 100vh;
+  padding: 30px 70px 30px 70px;
+}
+.list-container {
+  display: flex;
+  padding-inline-start: 0;
+}
+.description {
+  color: brown;
+  font-size: 17px;
+  font-weight: 500;
+}
